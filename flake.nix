@@ -96,7 +96,7 @@
         # ogmios doesn't support it
         # "x86_64-darwin"
         # we don't have a builder
-        # "aarch64-darwin"
+        "aarch64-darwin"
       ];
     };
 }
