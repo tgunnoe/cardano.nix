@@ -15,7 +15,7 @@
         };
         "aarch64-darwin" = {
           url = mkUrl "v2.9.0" "aarch64-macos" "zip";
-          hash = "sha256-sEfaFPph1qBuPrxQzFeTKU/9i9w0KF/v7GpxxmorPWQ=";
+          hash = "sha256-HcTdkspC5LvG5F8mMQlR9UAbsiFOUnlN8U5FWfetKLQ=";
         };
       };
       "2.8.0" = {
