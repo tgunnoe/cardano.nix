@@ -13,6 +13,10 @@
           url = mkUrl "v2.9.0" "x86_64-linux" "zip";
           hash = "sha256-sEfaFPph1qBuPrxQzFeTKU/9i9w0KF/v7GpxxmorPWQ=";
         };
+        "aarch64-darwin" = {
+          url = mkUrl "v2.9.0" "aarch64-macos" "zip";
+          hash = "sha256-sEfaFPph1qBuPrxQzFeTKU/9i9w0KF/v7GpxxmorPWQ=";
+        };
       };
       "2.8.0" = {
         "x86_64-linux" = {
